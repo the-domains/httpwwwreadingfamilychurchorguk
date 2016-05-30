@@ -1,0 +1,14 @@
+layout_spectrum: 0.29164804494939744
+typography_spectrum: 0.5485023246146739
+color:
+  brandStrength: 0.3987877359613776
+  lightness: 0.031573294661939144
+  saturation: 0.324660777579993
+  rhythmicContrast: 0.37600244558416307
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: 'http://www.readingfamilychurch.org.uk'
